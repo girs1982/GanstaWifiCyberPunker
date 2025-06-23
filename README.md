@@ -17,4 +17,4 @@ btn 8 - crack password (connective mode , wordlist Roclyou.txt must be in / fold
 btn 9 - deaunteficator only yours select network
 
 
-source codes only for winner in telegramm game @GanstaApp_bot  
+source codes only for winner in telegramm game https://t.me/GanstaApp_bot @GanstaApp_bot   
