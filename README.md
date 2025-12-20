@@ -35,3 +35,5 @@ for donate
 🦊 MetaMask: 0x8F68C016fAd3b3607FcFAde766611dF392f36378 🦊
 
 💱PayPal: paypal.me/ganstagirs💱
+
+for questions https://t.me/CODE_GANSTA
