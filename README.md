@@ -12,7 +12,7 @@ btn 5 - capture handshake aggressive mode with deauteficator
 
 btn 6 - capture handshake passive only sniffing
 
-btn 8 - crack password (connective mode , wordlist Roclyou.txt must be in / folder sd card)
+btn 8 - crack password (connective mode , wordlist rockyou.txt must be in / folder sd card)
 
 btn 9 - deaunteficator only yours select network
 
