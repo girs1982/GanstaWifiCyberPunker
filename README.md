@@ -20,6 +20,7 @@ btn 9 - deaunteficator only yours select network
 source codes only for winner in telegramm game https://t.me/GanstaApp_bot @GanstaApp_bot   
 
 for donate 
+
 💸Bitcoin: 1MqaiPPmpHA9FidFDVvBDp8x2G5xyX2WWb💸
 
 💵ETH: 0x950b534b175b7b264337fb62bc6b5f9cee99078e💵
